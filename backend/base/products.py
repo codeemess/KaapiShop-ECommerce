@@ -32,6 +32,7 @@ products = [
       "A latte made with the fresh beans brewed by Kaapi Shop, and topped by flavours of your choice",
     "item": "Coffee",
     "category": "Hot",
+    
     "price": 4.99,
     "countInStock": 7,
     "rating": 4.6,
